@@ -60,8 +60,3 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-git clone https://github.com/your-username/wan-scraps.git
-cd wan-scraps
-python -m venv venv
-source venv/bin/activate   # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
